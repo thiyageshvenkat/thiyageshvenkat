@@ -5,4 +5,3 @@
     - usaco/codeforces
 - 💬 Ask me about quiz bowl
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my way  better projects aren't public
