@@ -6,6 +6,7 @@
 ![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=for-the-badge&logo=nextflow&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Terrapin Logo](https://img.shields.io/badge/Terrapin-Logo-3E712B?style=for-the-badge&logo=turtle&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-Tcl/Tk-blue?style=for-the-badge&logo=tcl&logoColor=white)
 
 
 {{ wakatimeDoubleCategoryBar wakatimeData.Languages wakatimeData.Projects }}
