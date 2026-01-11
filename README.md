@@ -1,1 +1,1 @@
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+{{ wakatimeDoubleCategoryBar wakatimeData.Languages wakatimeData.Projects }}
