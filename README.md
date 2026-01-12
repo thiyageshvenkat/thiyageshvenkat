@@ -26,6 +26,13 @@
 
 ## 🌍 Communities & Organizations
 ![Hack Club](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=hack-club&logoColor=white)
-
+## 🤔 What I want to learn?
+ ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ## 📊 Activity & Metrics
 {{ wakatimeDoubleCategoryBar wakatimeData.Languages wakatimeData.Projects }}
+## What's my profile picture?
+> [![Black Square](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kazimir_Malevich%2C_1915%2C_Black_Suprematist_Square%2C_oil_on_canvas%2C_79.5_x_79.5_cm%2C_State_Tretyakov_Gallery%2C_Moscow.jpg/200px-Kazimir_Malevich%2C_1915%2C_Black_Suprematist_Square%2C_oil_on_canvas%2C_79.5_x_79.5_cm%2C_State_Tretyakov_Gallery%2C_Moscow.jpg)](https://en.wikipedia.org/wiki/Black_Square)
+>
+> **Black Square** is an iconic painting by Kazimir Malevich. The first version was done in 1915. Malevich characterized it as the "zero point of painting", citing its importance as a landmark in Modernist art.
+>
+> [![Wikipedia](https://img.shields.io/badge/Wikipedia-Black_Square-black?style=for-the-badge&logo=wikipedia)](https://en.wikipedia.org/wiki/Black_Square)
