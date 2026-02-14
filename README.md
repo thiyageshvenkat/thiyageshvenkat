@@ -7,9 +7,8 @@
 
 **Web Development Stack**
 ---
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)**
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin-Multiplatform-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ---
 
 **Tools & Frameworks**
