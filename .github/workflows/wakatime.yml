@@ -13,11 +13,12 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # Removed /v1 to prevent double-versioning errors
-          WAKATIME_API_URL: https://hackatime.hackclub.com/api/hackatime
+          # Use this exact URL with no trailing slash
+          WAKATIME_API_URL: https://hackatime.hackclub.com/api/hackatime/v1
           SECTION_NAME: waka
           SHOW_OS: "true"
           SHOW_PROJECTS: "true"
           SHOW_EDITORS: "true"
           SHOW_TIMEZONE: "true"
+          SHOW_COMMIT_COUNT: "true"
           SHOW_LANGUAGE: "true"
