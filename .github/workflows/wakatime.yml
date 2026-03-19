@@ -13,12 +13,15 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # Use this exact URL with no trailing slash
           WAKATIME_API_URL: https://hackatime.hackclub.com/api/hackatime/v1
           SECTION_NAME: waka
+          # These flags force the script to use the 7-day endpoint which Hackatime supports
+          SHOW_DAYS_OF_WEEK: "true"
+          SHOW_LANGUAGE: "true"
           SHOW_OS: "true"
           SHOW_PROJECTS: "true"
           SHOW_EDITORS: "true"
           SHOW_TIMEZONE: "true"
-          SHOW_COMMIT_COUNT: "true"
-          SHOW_LANGUAGE: "true"
+          # Disable these as they trigger the failing 'all_time' API call
+          SHOW_LINES_OF_CODE: "false"
+          SHOW_TOTAL_CODE_TIME: "false"
