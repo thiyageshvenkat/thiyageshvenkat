@@ -1,0 +1,64 @@
+<svg width="500" height="350" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .header { font: 600 18px 'Consolas', Ubuntu, sans-serif; fill: #58A6FF; filter: drop-shadow(0 0 1px rgba(88, 166, 255, 0.8)); }
+        .stat-text { font: 400 14px Consolas, 'Courier New', monospace; fill: #C9D1D9; }
+        .title-text { font: 600 14px Consolas, 'Courier New', monospace; fill: #8B949E; }
+        .bar-bg { fill: #21262D; rx: 5px; }
+        .bar-fg { fill: #58A6FF; rx: 5px; filter: drop-shadow(0 0 8px rgba(88, 166, 255, 0.8)); }
+        /* Animation for a cool fade-in effect */
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        g { animation: fadeIn 1s ease-in-out; }
+    </style>
+    
+    <!-- Background rounded rectangle -->
+    <rect width="500" height="350" fill="#0D1117" rx="10" stroke="#30363D" stroke-width="1"/>
+    
+    <!-- Header text -->
+    <text x="25" y="35" class="header">📊 This Week's Languages</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 1 hrs 25 mins</text>
+    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 21 mins</text>
+    
+    <g transform="translate(25, 110)">
+    
+        <text x="0" y="12" class="title-text">Python</text>
+        <text x="450" y="12" text-anchor="end" class="stat-text">0 hrs 36 mins (30.96%)</text>
+        
+        <!-- The background of the progress bar -->
+        <rect x="0" y="20" width="450" height="10" class="bar-bg"/>
+        <!-- The filled part of the progress bar -->
+        <rect x="0" y="20" width="139.32" height="10" class="bar-fg"/>
+        
+        <text x="0" y="57" class="title-text">HTML</text>
+        <text x="450" y="57" text-anchor="end" class="stat-text">0 hrs 27 mins (23.21%)</text>
+        
+        <!-- The background of the progress bar -->
+        <rect x="0" y="65" width="450" height="10" class="bar-bg"/>
+        <!-- The filled part of the progress bar -->
+        <rect x="0" y="65" width="104.44500000000001" height="10" class="bar-fg"/>
+        
+        <text x="0" y="102" class="title-text">Markdown</text>
+        <text x="450" y="102" text-anchor="end" class="stat-text">0 hrs 13 mins (11.3%)</text>
+        
+        <!-- The background of the progress bar -->
+        <rect x="0" y="110" width="450" height="10" class="bar-bg"/>
+        <!-- The filled part of the progress bar -->
+        <rect x="0" y="110" width="50.85" height="10" class="bar-fg"/>
+        
+        <text x="0" y="147" class="title-text">YAML</text>
+        <text x="450" y="147" text-anchor="end" class="stat-text">0 hrs 11 mins (9.39%)</text>
+        
+        <!-- The background of the progress bar -->
+        <rect x="0" y="155" width="450" height="10" class="bar-bg"/>
+        <!-- The filled part of the progress bar -->
+        <rect x="0" y="155" width="42.255" height="10" class="bar-fg"/>
+        
+        <text x="0" y="192" class="title-text">C++</text>
+        <text x="450" y="192" text-anchor="end" class="stat-text">0 hrs 8 mins (6.78%)</text>
+        
+        <!-- The background of the progress bar -->
+        <rect x="0" y="200" width="450" height="10" class="bar-bg"/>
+        <!-- The filled part of the progress bar -->
+        <rect x="0" y="200" width="30.509999999999998" height="10" class="bar-fg"/>
+        
+    </g>
+</svg>

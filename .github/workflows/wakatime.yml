@@ -9,11 +9,24 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Update README with WakaTime stats
-        uses: anmol098/waka-readme-stats@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Generate WakaTime Stats SVGs
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_URL: https://hackatime.hackclub.com/api/hackatime/v1
-          SECTION_NAME: waka
-          
+        run: python update_readme.py
+
+      - name: Commit and Push SVG changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📊 Update WakaTime SVG Stats"
+          file_pattern: "*.svg"
