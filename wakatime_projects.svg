@@ -15,34 +15,42 @@
     
     <!-- Header text -->
     <text x="25" y="35" class="header">📁 This Week's Projects</text>
-    <text x="25" y="60" class="stat-text">🕛 Total Time: 1 hrs 23 mins</text>
-    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 16 mins</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 1 hrs 45 mins</text>
+    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 17 mins</text>
     
     <g transform="translate(25, 110)">
     
         <text x="0" y="12" class="title-text">DtParticipant_Portal</text>
-        <text x="450" y="12" text-anchor="end" class="stat-text">0 hrs 52 mins (64.66%)</text>
+        <text x="450" y="12" text-anchor="end" class="stat-text">0 hrs 52 mins (50.67%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="20" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="20" width="290.96999999999997" height="10" class="bar-fg"/>
+        <rect x="0" y="20" width="228.01500000000001" height="10" class="bar-fg"/>
         
-        <text x="0" y="57" class="title-text">ven12</text>
-        <text x="450" y="57" text-anchor="end" class="stat-text">0 hrs 15 mins (19.64%)</text>
+        <text x="0" y="57" class="title-text">synopsys26</text>
+        <text x="450" y="57" text-anchor="end" class="stat-text">0 hrs 20 mins (19.69%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="65" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="65" width="88.38000000000001" height="10" class="bar-fg"/>
+        <rect x="0" y="65" width="88.605" height="10" class="bar-fg"/>
         
-        <text x="0" y="102" class="title-text">thiyageshvenkat</text>
-        <text x="450" y="102" text-anchor="end" class="stat-text">0 hrs 12 mins (15.7%)</text>
+        <text x="0" y="102" class="title-text">ven12</text>
+        <text x="450" y="102" text-anchor="end" class="stat-text">0 hrs 15 mins (15.39%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="110" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="110" width="70.65" height="10" class="bar-fg"/>
+        <rect x="0" y="110" width="69.25500000000001" height="10" class="bar-fg"/>
+        
+        <text x="0" y="147" class="title-text">thiyageshvenkat</text>
+        <text x="450" y="147" text-anchor="end" class="stat-text">0 hrs 14 mins (14.25%)</text>
+        
+        <!-- The background of the progress bar -->
+        <rect x="0" y="155" width="450" height="10" class="bar-bg"/>
+        <!-- The filled part of the progress bar -->
+        <rect x="0" y="155" width="64.125" height="10" class="bar-fg"/>
         
     </g>
 </svg>
