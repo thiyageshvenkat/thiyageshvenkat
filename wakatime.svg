@@ -15,50 +15,50 @@
     
     <!-- Header text -->
     <text x="25" y="35" class="header">📊 This Week's Languages</text>
-    <text x="25" y="60" class="stat-text">🕛 Total Time: 1 hrs 55 mins</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 1 hrs 57 mins</text>
     <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 19 mins</text>
     
     <g transform="translate(25, 110)">
     
         <text x="0" y="12" class="title-text">HTML</text>
-        <text x="450" y="12" text-anchor="end" class="stat-text">0 hrs 47 mins (35.52%)</text>
+        <text x="450" y="12" text-anchor="end" class="stat-text">0 hrs 53 mins (34.67%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="20" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="20" width="159.84" height="10" class="bar-fg"/>
+        <rect x="0" y="20" width="156.01500000000001" height="10" class="bar-fg"/>
         
-        <text x="0" y="57" class="title-text">Python</text>
-        <text x="450" y="57" text-anchor="end" class="stat-text">0 hrs 34 mins (26.04%)</text>
+        <text x="0" y="57" class="title-text">unknown</text>
+        <text x="450" y="57" text-anchor="end" class="stat-text">0 hrs 29 mins (19.46%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="65" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="65" width="117.17999999999998" height="10" class="bar-fg"/>
+        <rect x="0" y="65" width="87.57" height="10" class="bar-fg"/>
         
-        <text x="0" y="102" class="title-text">unknown</text>
-        <text x="450" y="102" text-anchor="end" class="stat-text">0 hrs 25 mins (19.18%)</text>
+        <text x="0" y="102" class="title-text">Markdown</text>
+        <text x="450" y="102" text-anchor="end" class="stat-text">0 hrs 20 mins (13.37%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="110" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="110" width="86.31" height="10" class="bar-fg"/>
+        <rect x="0" y="110" width="60.16499999999999" height="10" class="bar-fg"/>
         
-        <text x="0" y="147" class="title-text">Markdown</text>
-        <text x="450" y="147" text-anchor="end" class="stat-text">0 hrs 22 mins (16.53%)</text>
+        <text x="0" y="147" class="title-text">Python</text>
+        <text x="450" y="147" text-anchor="end" class="stat-text">0 hrs 19 mins (12.44%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="155" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="155" width="74.385" height="10" class="bar-fg"/>
+        <rect x="0" y="155" width="55.98" height="10" class="bar-fg"/>
         
-        <text x="0" y="192" class="title-text">TOML</text>
-        <text x="450" y="192" text-anchor="end" class="stat-text">0 hrs 3 mins (2.73%)</text>
+        <text x="0" y="192" class="title-text">TypeScript</text>
+        <text x="450" y="192" text-anchor="end" class="stat-text">0 hrs 13 mins (8.7%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="200" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="200" width="12.285" height="10" class="bar-fg"/>
+        <rect x="0" y="200" width="39.15" height="10" class="bar-fg"/>
         
     </g>
 </svg>
