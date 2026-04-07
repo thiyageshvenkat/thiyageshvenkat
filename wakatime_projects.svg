@@ -15,8 +15,8 @@
     
     <!-- Header text -->
     <text x="25" y="35" class="header">📁 This Week's Projects</text>
-    <text x="25" y="60" class="stat-text">🕛 Total Time: 2 hrs 10 mins</text>
-    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 26 mins</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 2 hrs 8 mins</text>
+    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 32 mins</text>
     
     <g transform="translate(25, 110)">
     
