@@ -18,6 +18,13 @@
 <p align="center">
   <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/72c7a902-28fe-47e8-8f69-dbe1164cb093" />
 </p>
+<p align="center">
+  <h1 align="center">Divergent Hackathon Website/Director Portal</h1>
+  <p align="center">Currently working on frontend and backend development in a team internship for a nonprofit, ready to serve hundreds of students and dozens of directors. </p>
+</p>
+<p align="center">
+  <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/e7d44bc1-0034-43fa-a1d7-2a7e1cc7142d" />
+</p>
 
 <h1 align="center">Languages and Frameworks</h3>
 <p align="center">
