@@ -8,24 +8,17 @@
 <p align="center">
   <img lign="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiyageshvenkat&theme=dark&hide_border=false" />
 </p>
-<p>
-  <h1 align="center">Arch Linux (Omarchy)</h1>
-</p>
-  <img width="2560" height="1440" alt="Omarchy-2026-04-24-18-15-32" src="https://github.com/user-attachments/assets/4f15abdd-3c31-4029-9c56-2206754dc5d2" />
-<p>
-  <h1 align="center">Personal Neovim Setup</h1>
-</p>
-<p align="center">
-  <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/72c7a902-28fe-47e8-8f69-dbe1164cb093" />
-</p>
 <p align="center">
   <h1 align="center">Divergent Hackathon Website/Director Portal</h1>
-  <p align="center">Currently working on frontend and backend development in a team internship for a nonprofit, ready to serve hundreds of students and dozens of directors. </p>
+  <p align="center">Currently working on frontend and backend development of a website/hackathon portal in a team internship for a nonprofit, ready to serve hundreds of students and dozens of directors. </p>
 </p>
 <p align="center">
   <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/e7d44bc1-0034-43fa-a1d7-2a7e1cc7142d" />
 </p>
-
+<p>
+  <h1 align="center">zsh/vscode/nvim</h1>
+  <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/0bfa8630-596d-45a9-9c67-1c702e4ff0cb" />
+</p>
 <h1 align="center">Languages and Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="100" />
