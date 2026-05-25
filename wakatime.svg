@@ -15,26 +15,10 @@
     
     <!-- Header text -->
     <text x="25" y="35" class="header">📊 This Week's Languages</text>
-    <text x="25" y="60" class="stat-text">🕛 Total Time: 0 hrs 4 mins</text>
-    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 2 mins</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 0 hrs 0 mins</text>
+    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 0 mins</text>
     
     <g transform="translate(25, 110)">
     
-        <text x="0" y="12" class="title-text">Text</text>
-        <text x="450" y="12" text-anchor="end" class="stat-text">0 hrs 2 mins (97.56%)</text>
-        
-        <!-- The background of the progress bar -->
-        <rect x="0" y="20" width="450" height="10" class="bar-bg"/>
-        <!-- The filled part of the progress bar -->
-        <rect x="0" y="20" width="439.02" height="10" class="bar-fg"/>
-        
-        <text x="0" y="57" class="title-text">C++</text>
-        <text x="450" y="57" text-anchor="end" class="stat-text">0 hrs 0 mins (2.44%)</text>
-        
-        <!-- The background of the progress bar -->
-        <rect x="0" y="65" width="450" height="10" class="bar-bg"/>
-        <!-- The filled part of the progress bar -->
-        <rect x="0" y="65" width="10.979999999999999" height="10" class="bar-fg"/>
-        
     </g>
 </svg>
