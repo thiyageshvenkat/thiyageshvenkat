@@ -15,26 +15,42 @@
     
     <!-- Header text -->
     <text x="25" y="35" class="header">📊 This Week's Languages</text>
-    <text x="25" y="60" class="stat-text">🕛 Total Time: 0 hrs 9 mins</text>
-    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 9 mins</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 0 hrs 16 mins</text>
+    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 5 mins</text>
     
     <g transform="translate(25, 110)">
     
         <text x="0" y="12" class="title-text">TypeScript</text>
-        <text x="450" y="12" text-anchor="end" class="stat-text">0 hrs 6 mins (85.92%)</text>
+        <text x="450" y="12" text-anchor="end" class="stat-text">0 hrs 6 mins (47.62%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="20" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="20" width="386.64" height="10" class="bar-fg"/>
+        <rect x="0" y="20" width="214.29" height="10" class="bar-fg"/>
         
-        <text x="0" y="57" class="title-text">unknown</text>
-        <text x="450" y="57" text-anchor="end" class="stat-text">0 hrs 0 mins (14.08%)</text>
+        <text x="0" y="57" class="title-text">Python</text>
+        <text x="450" y="57" text-anchor="end" class="stat-text">0 hrs 4 mins (32.67%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="65" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="65" width="63.36000000000001" height="10" class="bar-fg"/>
+        <rect x="0" y="65" width="147.015" height="10" class="bar-fg"/>
+        
+        <text x="0" y="102" class="title-text">Markdown</text>
+        <text x="450" y="102" text-anchor="end" class="stat-text">0 hrs 1 mins (11.9%)</text>
+        
+        <!-- The background of the progress bar -->
+        <rect x="0" y="110" width="450" height="10" class="bar-bg"/>
+        <!-- The filled part of the progress bar -->
+        <rect x="0" y="110" width="53.550000000000004" height="10" class="bar-fg"/>
+        
+        <text x="0" y="147" class="title-text">unknown</text>
+        <text x="450" y="147" text-anchor="end" class="stat-text">0 hrs 0 mins (7.8%)</text>
+        
+        <!-- The background of the progress bar -->
+        <rect x="0" y="155" width="450" height="10" class="bar-bg"/>
+        <!-- The filled part of the progress bar -->
+        <rect x="0" y="155" width="35.1" height="10" class="bar-fg"/>
         
     </g>
 </svg>
