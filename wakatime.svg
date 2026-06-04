@@ -15,50 +15,50 @@
     
     <!-- Header text -->
     <text x="25" y="35" class="header">📊 This Week's Languages</text>
-    <text x="25" y="60" class="stat-text">🕛 Total Time: 6 hrs 36 mins</text>
-    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 56 mins</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 7 hrs 49 mins</text>
+    <text x="25" y="80" class="stat-text">🔥 Daily Average: 1 hrs 7 mins</text>
     
     <g transform="translate(25, 110)">
     
         <text x="0" y="12" class="title-text">C++</text>
-        <text x="450" y="12" text-anchor="end" class="stat-text">4 hrs 27 mins (53.54%)</text>
+        <text x="450" y="12" text-anchor="end" class="stat-text">4 hrs 35 mins (45.31%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="20" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="20" width="240.93" height="10" class="bar-fg"/>
+        <rect x="0" y="20" width="203.895" height="10" class="bar-fg"/>
         
         <text x="0" y="57" class="title-text">unknown</text>
-        <text x="450" y="57" text-anchor="end" class="stat-text">0 hrs 59 mins (11.96%)</text>
+        <text x="450" y="57" text-anchor="end" class="stat-text">1 hrs 55 mins (19.0%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="65" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="65" width="53.82000000000001" height="10" class="bar-fg"/>
+        <rect x="0" y="65" width="85.5" height="10" class="bar-fg"/>
         
-        <text x="0" y="102" class="title-text">RGBDS Assembly</text>
-        <text x="450" y="102" text-anchor="end" class="stat-text">0 hrs 56 mins (11.23%)</text>
+        <text x="0" y="102" class="title-text">TypeScript</text>
+        <text x="450" y="102" text-anchor="end" class="stat-text">1 hrs 2 mins (10.23%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="110" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="110" width="50.535000000000004" height="10" class="bar-fg"/>
+        <rect x="0" y="110" width="46.035000000000004" height="10" class="bar-fg"/>
         
-        <text x="0" y="147" class="title-text">TypeScript</text>
-        <text x="450" y="147" text-anchor="end" class="stat-text">0 hrs 23 mins (4.7%)</text>
+        <text x="0" y="147" class="title-text">RGBDS Assembly</text>
+        <text x="450" y="147" text-anchor="end" class="stat-text">0 hrs 56 mins (9.22%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="155" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="155" width="21.15" height="10" class="bar-fg"/>
+        <rect x="0" y="155" width="41.49" height="10" class="bar-fg"/>
         
         <text x="0" y="192" class="title-text">gitcommit</text>
-        <text x="450" y="192" text-anchor="end" class="stat-text">0 hrs 21 mins (4.35%)</text>
+        <text x="450" y="192" text-anchor="end" class="stat-text">0 hrs 21 mins (3.57%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="200" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="200" width="19.575" height="10" class="bar-fg"/>
+        <rect x="0" y="200" width="16.064999999999998" height="10" class="bar-fg"/>
         
     </g>
 </svg>
