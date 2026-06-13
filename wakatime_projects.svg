@@ -15,50 +15,50 @@
     
     <!-- Header text -->
     <text x="25" y="35" class="header">📁 This Week's Projects</text>
-    <text x="25" y="60" class="stat-text">🕛 Total Time: 13 hrs 14 mins</text>
-    <text x="25" y="80" class="stat-text">🔥 Daily Average: 1 hrs 39 mins</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 14 hrs 53 mins</text>
+    <text x="25" y="80" class="stat-text">🔥 Daily Average: 1 hrs 51 mins</text>
     
     <g transform="translate(25, 110)">
     
         <text x="0" y="12" class="title-text">ven12</text>
-        <text x="450" y="12" text-anchor="end" class="stat-text">6 hrs 32 mins (49.22%)</text>
+        <text x="450" y="12" text-anchor="end" class="stat-text">8 hrs 5 mins (54.28%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="20" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="20" width="221.48999999999998" height="10" class="bar-fg"/>
+        <rect x="0" y="20" width="244.26000000000002" height="10" class="bar-fg"/>
         
         <text x="0" y="57" class="title-text">SPlisHSPlasH</text>
-        <text x="450" y="57" text-anchor="end" class="stat-text">3 hrs 43 mins (28.01%)</text>
+        <text x="450" y="57" text-anchor="end" class="stat-text">3 hrs 43 mins (24.96%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="65" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="65" width="126.045" height="10" class="bar-fg"/>
+        <rect x="0" y="65" width="112.32000000000001" height="10" class="bar-fg"/>
         
-        <text x="0" y="102" class="title-text">ladybird</text>
-        <text x="450" y="102" text-anchor="end" class="stat-text">0 hrs 53 mins (6.65%)</text>
+        <text x="0" y="102" class="title-text">hackathon_management_portal</text>
+        <text x="450" y="102" text-anchor="end" class="stat-text">0 hrs 46 mins (5.19%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="110" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="110" width="29.925" height="10" class="bar-fg"/>
+        <rect x="0" y="110" width="23.355" height="10" class="bar-fg"/>
         
-        <text x="0" y="147" class="title-text">hackathon_management_portal</text>
-        <text x="450" y="147" text-anchor="end" class="stat-text">0 hrs 46 mins (5.82%)</text>
+        <text x="0" y="147" class="title-text">ladybird</text>
+        <text x="450" y="147" text-anchor="end" class="stat-text">0 hrs 43 mins (4.81%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="155" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="155" width="26.19" height="10" class="bar-fg"/>
+        <rect x="0" y="155" width="21.645" height="10" class="bar-fg"/>
         
-        <text x="0" y="192" class="title-text">synopsys26</text>
-        <text x="450" y="192" text-anchor="end" class="stat-text">0 hrs 40 mins (5.09%)</text>
+        <text x="0" y="192" class="title-text">usaco</text>
+        <text x="450" y="192" text-anchor="end" class="stat-text">0 hrs 19 mins (2.21%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="200" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="200" width="22.905" height="10" class="bar-fg"/>
+        <rect x="0" y="200" width="9.944999999999999" height="10" class="bar-fg"/>
         
     </g>
 </svg>
