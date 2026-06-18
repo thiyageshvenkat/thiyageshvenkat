@@ -15,50 +15,50 @@
     
     <!-- Header text -->
     <text x="25" y="35" class="header">📊 This Week's Languages</text>
-    <text x="25" y="60" class="stat-text">🕛 Total Time: 14 hrs 40 mins</text>
-    <text x="25" y="80" class="stat-text">🔥 Daily Average: 2 hrs 5 mins</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 14 hrs 2 mins</text>
+    <text x="25" y="80" class="stat-text">🔥 Daily Average: 2 hrs 20 mins</text>
     
     <g transform="translate(25, 110)">
     
-        <text x="0" y="12" class="title-text">C++</text>
-        <text x="450" y="12" text-anchor="end" class="stat-text">3 hrs 59 mins (17.87%)</text>
+        <text x="0" y="12" class="title-text">C#</text>
+        <text x="450" y="12" text-anchor="end" class="stat-text">3 hrs 50 mins (17.88%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="20" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="20" width="80.41499999999999" height="10" class="bar-fg"/>
+        <rect x="0" y="20" width="80.46" height="10" class="bar-fg"/>
         
-        <text x="0" y="57" class="title-text">C#</text>
-        <text x="450" y="57" text-anchor="end" class="stat-text">3 hrs 50 mins (17.21%)</text>
+        <text x="0" y="57" class="title-text">C++</text>
+        <text x="450" y="57" text-anchor="end" class="stat-text">3 hrs 41 mins (17.22%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="65" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="65" width="77.44500000000001" height="10" class="bar-fg"/>
+        <rect x="0" y="65" width="77.49" height="10" class="bar-fg"/>
         
         <text x="0" y="102" class="title-text">unknown</text>
-        <text x="450" y="102" text-anchor="end" class="stat-text">3 hrs 46 mins (16.88%)</text>
+        <text x="450" y="102" text-anchor="end" class="stat-text">3 hrs 39 mins (16.99%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="110" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="110" width="75.96" height="10" class="bar-fg"/>
+        <rect x="0" y="110" width="76.455" height="10" class="bar-fg"/>
         
         <text x="0" y="147" class="title-text">Python</text>
-        <text x="450" y="147" text-anchor="end" class="stat-text">3 hrs 13 mins (14.44%)</text>
+        <text x="450" y="147" text-anchor="end" class="stat-text">2 hrs 54 mins (13.51%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="155" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="155" width="64.98" height="10" class="bar-fg"/>
+        <rect x="0" y="155" width="60.795" height="10" class="bar-fg"/>
         
         <text x="0" y="192" class="title-text">ShaderLab</text>
-        <text x="450" y="192" text-anchor="end" class="stat-text">2 hrs 19 mins (10.38%)</text>
+        <text x="450" y="192" text-anchor="end" class="stat-text">2 hrs 19 mins (10.79%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="200" width="450" height="10" class="bar-bg"/>
         <!-- The filled part of the progress bar -->
-        <rect x="0" y="200" width="46.71" height="10" class="bar-fg"/>
+        <rect x="0" y="200" width="48.555" height="10" class="bar-fg"/>
         
     </g>
 </svg>
