@@ -15,13 +15,13 @@
     
     <!-- Header text -->
     <text x="25" y="35" class="header">📁 This Week's Projects</text>
-    <text x="25" y="60" class="stat-text">🕛 Total Time: 0 hrs 8 mins</text>
-    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 4 mins</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 0 hrs 10 mins</text>
+    <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 5 mins</text>
     
     <g transform="translate(25, 110)">
     
         <text x="0" y="12" class="title-text">ven12</text>
-        <text x="450" y="12" text-anchor="end" class="stat-text">0 hrs 8 mins (100.0%)</text>
+        <text x="450" y="12" text-anchor="end" class="stat-text">0 hrs 10 mins (100.0%)</text>
         
         <!-- The background of the progress bar -->
         <rect x="0" y="20" width="450" height="10" class="bar-bg"/>
