@@ -15,7 +15,7 @@
     
     <!-- Header text -->
     <text x="25" y="35" class="header">📊 This Week's Languages</text>
-    <text x="25" y="60" class="stat-text">🕛 Total Time: 0 hrs 16 mins</text>
+    <text x="25" y="60" class="stat-text">🕛 Total Time: 0 hrs 14 mins</text>
     <text x="25" y="80" class="stat-text">🔥 Daily Average: 0 hrs 3 mins</text>
     
     <g transform="translate(25, 110)">
